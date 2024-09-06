@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Eco-friendly Bamboo Toothbrush",
+        "price": 199,
+        "currency": "INR",
+        "description": "A sustainable bamboo toothbrush with soft bristles, perfect for daily use. Reduce plastic waste with this eco-friendly alternative.",
+        "image": "image/brush.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Stainless Steel Water Bottle",
+        "price": 499,
+        "currency": "INR",
+        "description": "A durable stainless steel water bottle that keeps beverages cold for 24 hours and hot for 12 hours. Ideal for travel, gym, or office.",
+        "image": "image/pic.webp"
+    },
+    {
+        "id": 3,
+        "name": "Organic Cotton T-shirt",
+        "price": 799,
+        "currency": "INR",
+        "description": "Comfortable and breathable organic cotton t-shirt available in various colors. Perfect for casual wear, made from 100% organic cotton.",
+        "image": "image/pic1.webp"
+    }
+]
